@@ -1,0 +1,967 @@
+2026-06-16 13:03:17,643 INFO: ====== WebDriver manager ======
+2026-06-16 13:03:18,284 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.115\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-16 13:03:23,297 INFO: test_home_url failed 
+2026-06-16 13:04:55,912 INFO: ====== WebDriver manager ======
+2026-06-16 13:04:56,566 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.115\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-16 13:05:00,948 INFO: Home URL Loaded Successfully
+2026-06-16 13:05:00,949 INFO: test_home_url passed 
+2026-06-16 13:09:56,291 INFO: ====== WebDriver manager ======
+2026-06-16 13:09:57,005 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.115\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-16 13:10:01,446 INFO: Username and Password fields are visible and enabled
+2026-06-16 13:10:01,447 INFO: test_login_fields passed 
+2026-06-16 13:21:23,391 INFO: ====== WebDriver manager ======
+2026-06-16 13:21:24,053 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.115\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-16 13:21:29,298 INFO: Admin menu verified
+2026-06-16 13:21:29,323 INFO: PIM menu verified
+2026-06-16 13:21:29,347 INFO: Leave menu verified
+2026-06-16 13:21:29,371 INFO: Time menu verified
+2026-06-16 13:21:29,410 INFO: Recruitment menu verified
+2026-06-16 13:21:39,855 INFO: test_dashboard_menu failed 
+2026-06-16 13:51:14,761 INFO: ====== WebDriver manager ======
+2026-06-16 13:51:15,433 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.115\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-16 13:51:36,434 INFO: Admin menu is visible and clickable
+2026-06-16 13:51:37,681 INFO: PIM menu is visible and clickable
+2026-06-16 13:51:38,946 INFO: Leave menu is visible and clickable
+2026-06-16 13:51:40,228 INFO: Time menu is visible and clickable
+2026-06-16 13:51:41,477 INFO: Recruitment menu is visible and clickable
+2026-06-16 13:51:51,877 INFO: test_dashboard_menu failed 
+2026-06-16 13:57:26,095 INFO: ====== WebDriver manager ======
+2026-06-16 13:57:26,763 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.115\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-16 13:58:21,043 INFO: test_dashboard_menu failed 
+2026-06-16 14:02:43,910 INFO: ====== WebDriver manager ======
+2026-06-16 14:02:44,524 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.115\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-16 14:02:51,118 INFO:  Admin visible amd enabled
+2026-06-16 14:02:51,140 INFO:  PIM visible amd enabled
+2026-06-16 14:02:51,166 INFO:  Leave visible amd enabled
+2026-06-16 14:02:51,224 INFO:  Time visible amd enabled
+2026-06-16 14:02:51,250 INFO:  Recruitment visible amd enabled
+2026-06-16 14:03:11,780 INFO: test_dashboard_menu failed 
+2026-06-16 14:15:35,914 INFO: ====== WebDriver manager ======
+2026-06-16 14:15:36,630 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.115\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-16 14:15:42,222 INFO: test_dashboard_menu passed 
+2026-06-16 14:54:51,757 INFO: ====== WebDriver manager ======
+2026-06-16 14:54:52,381 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.115\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-16 14:54:53,181 INFO: test_new_user_creation failed 
+2026-06-16 14:55:09,048 INFO: ====== WebDriver manager ======
+2026-06-16 14:55:09,656 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.115\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-16 14:55:25,270 INFO: test_new_user_creation failed 
+2026-06-16 14:56:45,924 INFO: ====== WebDriver manager ======
+2026-06-16 14:56:46,578 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.115\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-16 14:56:52,233 INFO: test_new_user_creation failed 
+2026-06-16 14:58:54,712 INFO: ====== WebDriver manager ======
+2026-06-16 14:58:55,355 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.115\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-16 14:59:12,431 INFO: Generated user: testuser1781602152
+2026-06-16 14:59:12,432 INFO: test_new_user_creation passed 
+2026-06-16 15:18:00,829 INFO: ====== WebDriver manager ======
+2026-06-16 15:18:01,499 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.115\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-16 15:18:20,913 INFO: test_new_user_creation failed 
+2026-06-16 15:18:49,150 INFO: ====== WebDriver manager ======
+2026-06-16 15:18:49,810 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.115\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-16 15:19:21,424 INFO: test_new_user_creation failed 
+2026-06-16 15:23:27,625 INFO: ====== WebDriver manager ======
+2026-06-16 15:23:28,287 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.115\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-16 15:23:57,996 INFO: test_new_user_creation failed 
+2026-06-16 15:29:56,168 INFO: ====== WebDriver manager ======
+2026-06-16 15:29:56,863 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.115\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-16 15:30:45,748 INFO: test_new_user_creation failed 
+2026-06-16 15:33:27,343 INFO: ====== WebDriver manager ======
+2026-06-16 15:33:27,994 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.115\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-16 15:34:21,422 INFO: test_new_user_creation failed 
+2026-06-16 15:36:27,079 INFO: ====== WebDriver manager ======
+2026-06-16 15:36:27,732 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.115\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-16 15:37:02,813 INFO: User created successfully: testuser1781604416
+2026-06-16 15:37:02,814 INFO: test_new_user_creation passed 
+2026-06-16 15:40:30,592 INFO: ====== WebDriver manager ======
+2026-06-16 15:40:31,258 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.115\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-16 15:41:02,556 INFO: User created successfully: testuser1781604659
+2026-06-16 15:41:02,557 INFO: test_new_user_creation passed 
+2026-06-16 15:42:25,175 INFO: ====== WebDriver manager ======
+2026-06-16 15:42:25,757 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.115\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-16 15:42:44,157 INFO: User created successfully: testuser1781604761
+2026-06-16 15:42:44,157 INFO: test_new_user_creation passed 
+2026-06-16 15:52:56,863 INFO: ====== WebDriver manager ======
+2026-06-16 15:52:57,540 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.115\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-16 15:53:11,709 INFO: User created successfully: testuser1781605388
+2026-06-16 15:53:11,710 INFO: test_new_user_creation passed 
+2026-06-16 15:53:37,072 INFO: ====== WebDriver manager ======
+2026-06-16 15:53:37,715 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.115\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-16 15:53:48,028 INFO: User created successfully: testuser1781605425
+2026-06-16 15:53:48,028 INFO: test_new_user_creation passed 
+2026-06-16 15:53:57,936 INFO: ====== WebDriver manager ======
+2026-06-16 15:53:58,576 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.115\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-16 15:54:08,836 INFO: User created successfully: testuser1781605446
+2026-06-16 15:54:08,837 INFO: test_new_user_creation passed 
+2026-06-16 15:54:37,193 INFO: ====== WebDriver manager ======
+2026-06-16 15:54:37,831 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.115\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-16 15:54:58,080 INFO: test_new_user_creation failed 
+2026-06-18 10:15:38,991 INFO: ====== WebDriver manager ======
+2026-06-18 10:15:40,505 INFO: Get LATEST chromedriver version for google-chrome
+2026-06-18 10:15:40,893 INFO: There is no [win64] chromedriver "149.0.7827.155" for browser google-chrome "149.0.7827" in cache
+2026-06-18 10:15:41,465 INFO: There is no [win64] chromedriver "149.0.7827.155" for browser google-chrome "149.0.7827" in cache
+2026-06-18 10:15:41,466 INFO: Get LATEST chromedriver version for google-chrome
+2026-06-18 10:15:42,187 INFO: WebDriver version 149.0.7827.155 selected
+2026-06-18 10:15:42,203 INFO: Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/149.0.7827.155/win64/chromedriver-win64.zip
+2026-06-18 10:15:42,203 INFO: About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/149.0.7827.155/win64/chromedriver-win64.zip
+2026-06-18 10:15:42,855 INFO: Driver downloading response is 200
+2026-06-18 10:15:45,967 INFO: Driver has been saved in cache [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155]
+2026-06-18 10:15:50,903 INFO: Executing Login Test: Admin
+2026-06-18 10:16:07,078 INFO: Login Successful
+2026-06-18 10:16:11,382 INFO: Logout Successful
+2026-06-18 10:16:11,382 INFO: test_login[Admin-admin123-Pass] passed 
+2026-06-18 10:16:13,635 INFO: ====== WebDriver manager ======
+2026-06-18 10:16:14,412 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-18 10:16:21,117 INFO: Executing Login Test: Admin
+2026-06-18 10:16:42,065 INFO: Invalid Login Verified
+2026-06-18 10:16:42,065 INFO: test_login[Admin-wrong123-Fail] passed 
+2026-06-18 10:16:44,413 INFO: ====== WebDriver manager ======
+2026-06-18 10:16:45,184 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-18 10:17:09,368 INFO: Executing Login Test: WrongUser
+2026-06-18 10:17:21,108 INFO: Invalid Login Verified
+2026-06-18 10:17:21,109 INFO: test_login[WrongUser-admin123-Fail] passed 
+2026-06-18 10:17:23,420 INFO: ====== WebDriver manager ======
+2026-06-18 10:17:24,191 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-18 10:17:29,193 INFO: Executing Login Test: TestUser
+2026-06-18 10:17:40,999 INFO: Invalid Login Verified
+2026-06-18 10:17:41,000 INFO: test_login[TestUser-Test123-Fail] passed 
+2026-06-18 10:17:43,252 INFO: ====== WebDriver manager ======
+2026-06-18 10:17:44,014 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-18 10:17:52,585 INFO: Executing Login Test: admin
+2026-06-18 10:18:11,657 INFO: Login Successful
+2026-06-18 10:18:19,076 INFO: Logout Successful
+2026-06-18 10:18:19,077 INFO: test_login[admin-admin123-Pass] passed 
+2026-06-18 10:18:21,343 INFO: ====== WebDriver manager ======
+2026-06-18 10:18:22,108 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-18 10:18:32,092 INFO: Executing Login Test: Admin
+2026-06-18 10:18:53,256 INFO: Invalid Login Verified
+2026-06-18 10:18:53,257 INFO: test_login[Admin-Admin123-Fail] passed 
+2026-06-18 10:19:10,955 INFO: ====== WebDriver manager ======
+2026-06-18 10:19:11,679 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-18 10:19:25,954 INFO: Home URL Loaded Successfully
+2026-06-18 10:19:25,955 INFO: test_home_url passed 
+2026-06-18 10:19:40,858 INFO: ====== WebDriver manager ======
+2026-06-18 10:19:41,655 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-18 10:19:55,543 INFO: Username and Password fields are visible and enabled
+2026-06-18 10:19:55,543 INFO: test_login_fields passed 
+2026-06-18 10:20:04,196 INFO: ====== WebDriver manager ======
+2026-06-18 10:20:04,965 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-18 10:20:27,196 INFO: Admin
+2026-06-18 10:20:27,223 INFO: PIM
+2026-06-18 10:20:27,263 INFO: Leave
+2026-06-18 10:20:27,292 INFO: Time
+2026-06-18 10:20:27,320 INFO: Recruitment
+2026-06-18 10:20:27,348 INFO: My Info
+2026-06-18 10:20:27,379 INFO: Performance
+2026-06-18 10:20:27,406 INFO: Dashboard
+2026-06-18 10:20:27,432 INFO: Directory
+2026-06-18 10:20:27,457 INFO: Maintenance
+2026-06-18 10:20:27,486 INFO: Claim
+2026-06-18 10:20:27,518 INFO: Buzz
+2026-06-18 10:20:27,518 INFO: test_dashboard_menu passed 
+2026-06-18 10:20:38,188 INFO: ====== WebDriver manager ======
+2026-06-18 10:20:38,991 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-18 10:21:23,362 INFO: User created successfully: d1781758276
+2026-06-18 10:21:23,363 INFO: test_new_user_creation passed 
+2026-06-18 10:28:37,086 INFO: ====== WebDriver manager ======
+2026-06-18 10:28:37,887 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-18 10:29:04,984 INFO: User created successfully: d1781758740
+2026-06-18 10:29:04,985 INFO: test_new_user_creation passed 
+2026-06-23 10:08:29,217 INFO: ====== WebDriver manager ======
+2026-06-23 10:08:31,081 INFO: Get LATEST chromedriver version for google-chrome
+2026-06-23 10:08:32,096 INFO: Get LATEST chromedriver version for google-chrome
+2026-06-23 10:08:32,895 INFO: WebDriver version 149.0.7827.155 selected
+2026-06-23 10:08:32,901 INFO: Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/149.0.7827.155/win64/chromedriver-win64.zip
+2026-06-23 10:08:32,901 INFO: About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/149.0.7827.155/win64/chromedriver-win64.zip
+2026-06-23 10:08:34,196 INFO: Driver downloading response is 200
+2026-06-23 10:08:37,268 INFO: Driver has been saved in cache [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155]
+2026-06-23 10:08:51,938 INFO: User verified successfully: 
+2026-06-23 10:08:51,938 INFO: test_search_user passed 
+2026-06-23 10:28:52,475 INFO: ====== WebDriver manager ======
+2026-06-23 10:28:53,145 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-23 10:29:13,623 INFO: User verified successfully: 
+2026-06-23 10:29:13,624 INFO: test_search_user passed 
+2026-06-23 10:29:37,115 INFO: ====== WebDriver manager ======
+2026-06-23 10:29:37,754 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-23 10:29:47,434 INFO: User created successfully: d1782190784
+2026-06-23 10:29:47,434 INFO: test_new_user_creation passed 
+2026-06-23 10:30:13,168 INFO: ====== WebDriver manager ======
+2026-06-23 10:30:13,807 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-23 10:30:21,584 INFO: test_search_user failed 
+2026-06-23 10:33:24,519 INFO: ====== WebDriver manager ======
+2026-06-23 10:33:25,182 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-23 10:33:53,183 INFO: test_search_user failed 
+2026-06-23 10:36:41,028 INFO: ====== WebDriver manager ======
+2026-06-23 10:36:41,694 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-23 10:36:50,136 INFO: test_search_user failed 
+2026-06-23 10:46:09,368 INFO: ====== WebDriver manager ======
+2026-06-23 10:46:10,041 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-23 10:46:24,346 INFO: User created successfully: d1782191777
+2026-06-23 10:46:24,347 INFO: test_new_user_creation passed 
+2026-06-23 10:47:03,901 INFO: ====== WebDriver manager ======
+2026-06-23 10:47:04,564 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-23 10:47:14,738 INFO: User verified successfully: d1782191777
+2026-06-23 10:47:14,747 INFO: test_search_user passed 
+2026-06-23 11:13:38,699 INFO: ====== WebDriver manager ======
+2026-06-23 11:13:39,410 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-23 11:14:45,191 INFO: test_forgot_password failed 
+2026-06-23 11:15:05,789 INFO: ====== WebDriver manager ======
+2026-06-23 11:15:06,408 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-23 11:15:10,966 INFO: test_forgot_password passed 
+2026-06-23 11:16:45,819 INFO: ====== WebDriver manager ======
+2026-06-23 11:16:46,447 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-23 11:17:51,263 INFO: test_forgot_password passed 
+2026-06-23 11:28:59,676 INFO: ====== WebDriver manager ======
+2026-06-23 11:29:00,384 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-23 11:29:22,657 INFO: test_myinfo_menu failed 
+2026-06-23 11:41:07,965 INFO: ====== WebDriver manager ======
+2026-06-23 11:41:08,664 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-23 11:41:16,229 INFO: test_myinfo_menu passed 
+2026-06-23 11:41:48,051 INFO: ====== WebDriver manager ======
+2026-06-23 11:41:48,688 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-23 11:41:58,254 INFO: test_myinfo_menu failed 
+2026-06-23 11:42:18,614 INFO: ====== WebDriver manager ======
+2026-06-23 11:42:19,244 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-23 11:42:26,807 INFO: test_myinfo_menu passed 
+2026-06-23 11:43:02,443 INFO: ====== WebDriver manager ======
+2026-06-23 11:43:03,066 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-23 11:43:10,626 INFO: test_myinfo_menu passed 
+2026-06-23 11:48:43,052 INFO: ====== WebDriver manager ======
+2026-06-23 11:48:43,683 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-23 11:49:11,164 INFO: Verified menu: Personal Details
+2026-06-23 11:49:15,972 INFO: Verified menu: Contact Details
+2026-06-23 11:49:19,380 INFO: Verified menu: Emergency Contacts
+2026-06-23 11:49:22,210 INFO: Verified menu: Dependents
+2026-06-23 11:49:26,387 INFO: Verified menu: Immigration
+2026-06-23 11:49:29,983 INFO: Verified menu: Job
+2026-06-23 11:49:33,084 INFO: Verified menu: Salary
+2026-06-23 11:49:36,753 INFO: Verified menu: Report-to
+2026-06-23 11:49:41,467 INFO: Verified menu: Qualifications
+2026-06-23 11:49:46,075 INFO: Verified menu: Memberships
+2026-06-23 11:49:46,076 INFO: test_myinfo_menu passed 
+2026-06-24 17:18:29,294 INFO: ====== WebDriver manager ======
+2026-06-24 17:18:31,374 INFO: Get LATEST chromedriver version for google-chrome
+2026-06-24 17:18:32,487 INFO: Get LATEST chromedriver version for google-chrome
+2026-06-24 17:18:33,189 INFO: WebDriver version 149.0.7827.155 selected
+2026-06-24 17:18:33,195 INFO: Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/149.0.7827.155/win64/chromedriver-win64.zip
+2026-06-24 17:18:33,195 INFO: About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/149.0.7827.155/win64/chromedriver-win64.zip
+2026-06-24 17:18:33,825 INFO: Driver downloading response is 200
+2026-06-24 17:18:36,821 INFO: Driver has been saved in cache [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155]
+2026-06-24 17:18:42,227 INFO: Login Successful
+2026-06-24 17:18:48,978 INFO: Leave menu opened successfully
+2026-06-24 17:18:50,549 INFO: Assign Leave page opened successfully
+2026-06-24 17:18:51,527 INFO: Dates entered successfully
+2026-06-24 17:18:51,542 INFO: Assign button displayed
+2026-06-24 17:18:51,542 INFO: test_assign_leave passed 
+2026-06-24 17:19:09,384 INFO: ====== WebDriver manager ======
+2026-06-24 17:19:10,238 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-24 17:19:14,991 INFO: Login Successful
+2026-06-24 17:19:19,531 INFO: Leave menu opened successfully
+2026-06-24 17:19:20,870 INFO: Assign Leave page opened successfully
+2026-06-24 17:19:21,818 INFO: Dates entered successfully
+2026-06-24 17:19:21,835 INFO: Assign button displayed
+2026-06-24 17:19:21,835 INFO: test_assign_leave passed 
+2026-06-24 17:22:37,388 INFO: ====== WebDriver manager ======
+2026-06-24 17:22:38,315 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-24 17:22:45,232 INFO: Login Successful
+2026-06-24 17:22:47,696 INFO: Leave menu opened successfully
+2026-06-24 17:22:48,711 INFO: Assign Leave page opened successfully
+2026-06-24 17:22:49,666 INFO: Dates entered successfully
+2026-06-24 17:22:49,684 INFO: Assign button displayed
+2026-06-24 17:22:49,750 INFO: Assign button clicked
+2026-06-24 17:22:49,750 INFO: test_assign_leave passed 
+2026-06-24 18:29:09,120 INFO: ====== WebDriver manager ======
+2026-06-24 18:29:11,176 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-24 18:29:42,953 ERROR: Claim creation failed: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff69ef63fa5+14925]
+	chromedriver!GetHandleVerifier [0x7ff69ef64000+14980]
+	chromedriver!(No symbol) [0x7ff69eaa793d]
+	chromedriver!(No symbol) [0x7ff69eb01aad]
+	chromedriver!(No symbol) [0x7ff69eb01dac]
+	chromedriver!(No symbol) [0x7ff69eb527d7]
+	chromedriver!(No symbol) [0x7ff69eb4f39b]
+	chromedriver!(No symbol) [0x7ff69eaf401c]
+	chromedriver!(No symbol) [0x7ff69eaf4f43]
+	chromedriver!GetHandleVerifier [0x7ff69f547591+5f7f11]
+	chromedriver!GetHandleVerifier [0x7ff69f541902+5f2282]
+	chromedriver!GetHandleVerifier [0x7ff69f567115+617a95]
+	chromedriver!GetHandleVerifier [0x7ff69ef81dce+3274e]
+	chromedriver!GetHandleVerifier [0x7ff69ef8a82c+3b1ac]
+	chromedriver!GetHandleVerifier [0x7ff69ef6d744+1e0c4]
+	chromedriver!GetHandleVerifier [0x7ff69ef6d8d4+1e254]
+	chromedriver!GetHandleVerifier [0x7ff69ef51447+1dc7]
+	KERNEL32!BaseThreadInitThunk [0x7ffa17cde957+17]
+	ntdll!RtlUserThreadStart [0x7ffa18847c1c+2c]
+
+2026-06-24 18:29:43,232 INFO: test_submit_claim failed 
+2026-06-24 18:30:14,402 INFO: ====== WebDriver manager ======
+2026-06-24 18:30:15,423 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-24 18:30:44,890 ERROR: Claim creation failed: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff69ef63fa5+14925]
+	chromedriver!GetHandleVerifier [0x7ff69ef64000+14980]
+	chromedriver!(No symbol) [0x7ff69eaa793d]
+	chromedriver!(No symbol) [0x7ff69eb01aad]
+	chromedriver!(No symbol) [0x7ff69eb01dac]
+	chromedriver!(No symbol) [0x7ff69eb527d7]
+	chromedriver!(No symbol) [0x7ff69eb4f39b]
+	chromedriver!(No symbol) [0x7ff69eaf401c]
+	chromedriver!(No symbol) [0x7ff69eaf4f43]
+	chromedriver!GetHandleVerifier [0x7ff69f547591+5f7f11]
+	chromedriver!GetHandleVerifier [0x7ff69f541902+5f2282]
+	chromedriver!GetHandleVerifier [0x7ff69f567115+617a95]
+	chromedriver!GetHandleVerifier [0x7ff69ef81dce+3274e]
+	chromedriver!GetHandleVerifier [0x7ff69ef8a82c+3b1ac]
+	chromedriver!GetHandleVerifier [0x7ff69ef6d744+1e0c4]
+	chromedriver!GetHandleVerifier [0x7ff69ef6d8d4+1e254]
+	chromedriver!GetHandleVerifier [0x7ff69ef51447+1dc7]
+	KERNEL32!BaseThreadInitThunk [0x7ffa17cde957+17]
+	ntdll!RtlUserThreadStart [0x7ffa18847c1c+2c]
+
+2026-06-24 18:30:45,012 INFO: test_submit_claim failed 
+2026-06-24 18:35:32,154 INFO: ====== WebDriver manager ======
+2026-06-24 18:35:33,269 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-24 18:35:52,093 ERROR: Claim creation failed: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff69ef63fa5+14925]
+	chromedriver!GetHandleVerifier [0x7ff69ef64000+14980]
+	chromedriver!(No symbol) [0x7ff69eaa793d]
+	chromedriver!(No symbol) [0x7ff69eb01aad]
+	chromedriver!(No symbol) [0x7ff69eb01dac]
+	chromedriver!(No symbol) [0x7ff69eb527d7]
+	chromedriver!(No symbol) [0x7ff69eb4f39b]
+	chromedriver!(No symbol) [0x7ff69eaf401c]
+	chromedriver!(No symbol) [0x7ff69eaf4f43]
+	chromedriver!GetHandleVerifier [0x7ff69f547591+5f7f11]
+	chromedriver!GetHandleVerifier [0x7ff69f541902+5f2282]
+	chromedriver!GetHandleVerifier [0x7ff69f567115+617a95]
+	chromedriver!GetHandleVerifier [0x7ff69ef81dce+3274e]
+	chromedriver!GetHandleVerifier [0x7ff69ef8a82c+3b1ac]
+	chromedriver!GetHandleVerifier [0x7ff69ef6d744+1e0c4]
+	chromedriver!GetHandleVerifier [0x7ff69ef6d8d4+1e254]
+	chromedriver!GetHandleVerifier [0x7ff69ef51447+1dc7]
+	KERNEL32!BaseThreadInitThunk [0x7ffa17cde957+17]
+	ntdll!RtlUserThreadStart [0x7ffa18847c1c+2c]
+
+2026-06-24 18:35:52,275 INFO: test_submit_claim failed 
+2026-06-24 18:38:12,625 INFO: ====== WebDriver manager ======
+2026-06-24 18:38:13,729 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-24 18:38:26,358 INFO: Claim details entered
+2026-06-24 18:38:26,453 INFO: Created button clicked
+2026-06-24 18:38:30,980 ERROR: Claim verification failed: assert False
+ +  where False = verify_claim_exists('Claim_1782306501')
+ +    where verify_claim_exists = <pages.claim_page.ClaimPage object at 0x000001ABB27452B0>.verify_claim_exists
+2026-06-24 18:38:31,155 INFO: test_submit_claim failed 
+2026-06-24 18:42:35,901 INFO: ====== WebDriver manager ======
+2026-06-24 18:42:36,987 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-24 18:42:46,771 INFO: Claim details entered
+2026-06-24 18:42:46,834 INFO: Created button clicked
+2026-06-24 18:42:51,319 ERROR: Claim verification failed: assert False
+ +  where False = verify_claim_exists('Claim_1782306764')
+ +    where verify_claim_exists = <pages.claim_page.ClaimPage object at 0x000001F2308F52B0>.verify_claim_exists
+2026-06-24 18:42:51,491 INFO: test_submit_claim failed 
+2026-06-25 10:07:21,200 INFO: ====== WebDriver manager ======
+2026-06-25 10:07:23,155 INFO: Get LATEST chromedriver version for google-chrome
+2026-06-25 10:07:24,262 INFO: Get LATEST chromedriver version for google-chrome
+2026-06-25 10:07:24,888 INFO: WebDriver version 149.0.7827.155 selected
+2026-06-25 10:07:24,894 INFO: Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/149.0.7827.155/win64/chromedriver-win64.zip
+2026-06-25 10:07:24,894 INFO: About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/149.0.7827.155/win64/chromedriver-win64.zip
+2026-06-25 10:07:25,559 INFO: Driver downloading response is 200
+2026-06-25 10:07:28,604 INFO: Driver has been saved in cache [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155]
+2026-06-25 10:07:40,853 INFO: test_submit_claim failed 
+2026-06-25 10:08:24,098 INFO: ====== WebDriver manager ======
+2026-06-25 10:08:25,157 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-25 10:08:34,051 INFO: Claim details entered
+2026-06-25 10:08:34,114 INFO: Created button clicked
+2026-06-25 10:08:38,743 ERROR: Claim verification failed: assert False
+ +  where False = verify_claim_exists()
+ +    where verify_claim_exists = <pages.claim_page.ClaimPage object at 0x000001DE8E8D52B0>.verify_claim_exists
+2026-06-25 10:08:38,962 INFO: test_submit_claim failed 
+2026-06-25 10:09:32,330 INFO: ====== WebDriver manager ======
+2026-06-25 10:09:33,390 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-25 10:09:42,984 INFO: Claim details entered
+2026-06-25 10:09:43,074 INFO: Created button clicked
+2026-06-25 10:09:46,526 INFO: Inside my claims page
+2026-06-25 10:09:47,566 ERROR: Claim verification failed: assert False
+ +  where False = verify_claim_exists()
+ +    where verify_claim_exists = <pages.claim_page.ClaimPage object at 0x0000027BE5B752B0>.verify_claim_exists
+2026-06-25 10:09:47,680 INFO: test_submit_claim failed 
+2026-06-25 10:11:49,032 INFO: ====== WebDriver manager ======
+2026-06-25 10:11:50,154 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-25 10:12:29,903 INFO: Claim details entered
+2026-06-25 10:12:29,970 INFO: Created button clicked
+2026-06-25 10:12:33,690 INFO: Inside my claims page
+2026-06-25 10:12:35,283 ERROR: Claim verification failed: assert False
+ +  where False = verify_claim_exists()
+ +    where verify_claim_exists = <pages.claim_page.ClaimPage object at 0x000002104CFC52B0>.verify_claim_exists
+2026-06-25 10:12:35,474 INFO: test_submit_claim failed 
+2026-06-25 10:14:21,981 INFO: ====== WebDriver manager ======
+2026-06-25 10:14:23,329 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-25 10:14:33,992 INFO: Claim details entered
+2026-06-25 10:14:34,059 INFO: Created button clicked
+2026-06-25 10:14:37,778 INFO: Inside my claims page
+2026-06-25 10:14:42,811 ERROR: Claim verification failed: assert False
+ +  where False = verify_claim_exists()
+ +    where verify_claim_exists = <pages.claim_page.ClaimPage object at 0x000002A495AA12B0>.verify_claim_exists
+2026-06-25 10:14:42,969 INFO: test_submit_claim failed 
+2026-06-25 10:22:02,122 INFO: ====== WebDriver manager ======
+2026-06-25 10:22:03,221 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-25 10:22:13,524 INFO: Claim details entered
+2026-06-25 10:22:16,649 INFO: Created button clicked
+2026-06-25 10:22:20,133 INFO: Inside my claims page
+2026-06-25 10:22:35,348 ERROR: Claim verification failed: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=149.0.7827.196); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6114a3fa5+14925]
+	chromedriver!GetHandleVerifier [0x7ff6114a4000+14980]
+	chromedriver!(No symbol) [0x7ff610fe793d]
+	chromedriver!(No symbol) [0x7ff610fd2d82]
+	chromedriver!(No symbol) [0x7ff610ff90cc]
+	chromedriver!(No symbol) [0x7ff611071aa0]
+	chromedriver!(No symbol) [0x7ff61108ec82]
+	chromedriver!(No symbol) [0x7ff61103401c]
+	chromedriver!(No symbol) [0x7ff611034f43]
+	chromedriver!GetHandleVerifier [0x7ff611a87591+5f7f11]
+	chromedriver!GetHandleVerifier [0x7ff611a81902+5f2282]
+	chromedriver!GetHandleVerifier [0x7ff611aa7115+617a95]
+	chromedriver!GetHandleVerifier [0x7ff6114c1dce+3274e]
+	chromedriver!GetHandleVerifier [0x7ff6114ca82c+3b1ac]
+	chromedriver!GetHandleVerifier [0x7ff6114ad744+1e0c4]
+	chromedriver!GetHandleVerifier [0x7ff6114ad8d4+1e254]
+	chromedriver!GetHandleVerifier [0x7ff611491447+1dc7]
+	KERNEL32!BaseThreadInitThunk [0x7ffa17cde957+17]
+	ntdll!RtlUserThreadStart [0x7ffa18847c1c+2c]
+
+2026-06-25 10:22:35,679 INFO: test_submit_claim failed 
+2026-06-25 10:24:47,640 INFO: ====== WebDriver manager ======
+2026-06-25 10:24:48,851 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-25 10:24:57,923 INFO: test_submit_claim failed 
+2026-06-25 10:26:09,602 INFO: ====== WebDriver manager ======
+2026-06-25 10:26:10,731 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-25 10:26:23,683 INFO: Claim details entered
+2026-06-25 10:26:26,821 INFO: Created button clicked
+2026-06-25 10:26:30,287 INFO: Inside my claims page
+2026-06-25 10:26:35,344 ERROR: Claim verification failed: assert False
+ +  where False = verify_claim_exists()
+ +    where verify_claim_exists = <pages.claim_page.ClaimPage object at 0x000001B363A3D400>.verify_claim_exists
+2026-06-25 10:26:35,539 INFO: test_submit_claim failed 
+2026-06-25 10:32:13,108 INFO: ====== WebDriver manager ======
+2026-06-25 10:32:14,218 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-25 10:32:30,491 INFO: Claim details entered
+2026-06-25 10:32:33,588 INFO: Created button clicked
+2026-06-25 10:32:37,034 INFO: Inside my claims page
+2026-06-25 10:32:42,064 ERROR: Claim verification failed: assert False
+ +  where False = verify_claim_exists()
+ +    where verify_claim_exists = <pages.claim_page.ClaimPage object at 0x0000026B808E1400>.verify_claim_exists
+2026-06-25 10:32:42,241 INFO: test_submit_claim failed 
+2026-06-25 10:36:14,043 INFO: ====== WebDriver manager ======
+2026-06-25 10:36:15,099 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-25 10:36:35,328 INFO: Claim details entered
+2026-06-25 10:36:38,589 INFO: Created button clicked
+2026-06-25 10:36:42,047 INFO: Inside my claims page
+2026-06-25 10:36:47,095 INFO: Claim found in My Claims table
+2026-06-25 10:36:47,095 INFO: test_submit_claim passed 
+2026-06-25 10:41:21,671 INFO: ====== WebDriver manager ======
+2026-06-25 10:41:22,770 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-25 10:41:33,796 INFO: Claim details entered
+2026-06-25 10:41:36,863 INFO: Created button clicked
+2026-06-25 10:41:40,304 INFO: Inside my claims page
+2026-06-25 10:41:45,335 INFO: Claim found in My Claims table
+2026-06-25 10:41:45,335 INFO: test_submit_claim passed 
+2026-06-25 10:43:07,970 INFO: ====== WebDriver manager ======
+2026-06-25 10:43:08,992 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-25 10:43:21,200 INFO: Claim details entered
+2026-06-25 10:43:24,271 INFO: Created button clicked
+2026-06-25 10:43:27,705 INFO: Inside my claims page
+2026-06-25 10:43:32,768 INFO: Claim found in My Claims table
+2026-06-25 10:43:32,768 INFO: test_submit_claim passed 
+2026-06-25 10:44:52,239 INFO: ====== WebDriver manager ======
+2026-06-25 10:44:53,357 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-25 10:45:02,539 INFO: Claim details entered
+2026-06-25 10:45:05,609 INFO: Created button clicked
+2026-06-25 10:45:08,614 ERROR: Claim verification failed: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=149.0.7827.196); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6114a3fa5+14925]
+	chromedriver!GetHandleVerifier [0x7ff6114a4000+14980]
+	chromedriver!(No symbol) [0x7ff610fe793d]
+	chromedriver!(No symbol) [0x7ff610fd2d82]
+	chromedriver!(No symbol) [0x7ff610ff90cc]
+	chromedriver!(No symbol) [0x7ff611071aa0]
+	chromedriver!(No symbol) [0x7ff61108ec82]
+	chromedriver!(No symbol) [0x7ff61103401c]
+	chromedriver!(No symbol) [0x7ff611034f43]
+	chromedriver!GetHandleVerifier [0x7ff611a87591+5f7f11]
+	chromedriver!GetHandleVerifier [0x7ff611a81902+5f2282]
+	chromedriver!GetHandleVerifier [0x7ff611aa7115+617a95]
+	chromedriver!GetHandleVerifier [0x7ff6114c1dce+3274e]
+	chromedriver!GetHandleVerifier [0x7ff6114ca82c+3b1ac]
+	chromedriver!GetHandleVerifier [0x7ff6114ad744+1e0c4]
+	chromedriver!GetHandleVerifier [0x7ff6114ad8d4+1e254]
+	chromedriver!GetHandleVerifier [0x7ff611491447+1dc7]
+	KERNEL32!BaseThreadInitThunk [0x7ffa17cde957+17]
+	ntdll!RtlUserThreadStart [0x7ffa18847c1c+2c]
+
+2026-06-25 10:45:08,851 INFO: test_submit_claim failed 
+2026-06-25 10:45:20,294 INFO: ====== WebDriver manager ======
+2026-06-25 10:45:21,467 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-25 10:45:31,722 INFO: Claim details entered
+2026-06-25 10:45:34,796 INFO: Created button clicked
+2026-06-25 10:45:38,254 INFO: Inside my claims page
+2026-06-25 10:45:43,294 INFO: Claim found in My Claims table
+2026-06-25 10:45:43,295 INFO: test_submit_claim passed 
+2026-06-25 10:48:05,179 INFO: ====== WebDriver manager ======
+2026-06-25 10:48:06,398 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-25 10:48:15,489 INFO: Claim details entered
+2026-06-25 10:48:18,558 INFO: Created button clicked
+2026-06-25 10:48:21,984 INFO: Inside my claims page
+2026-06-25 10:48:27,024 INFO: Claim found in My Claims table
+2026-06-25 10:48:27,025 INFO: test_submit_claim passed 
+2026-06-25 10:51:30,695 INFO: ====== WebDriver manager ======
+2026-06-25 10:51:31,511 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-25 10:51:40,489 INFO: Claim details entered
+2026-06-25 10:51:43,566 INFO: Created button clicked
+2026-06-25 10:51:45,961 INFO: Claim found in My Claims table
+2026-06-25 10:51:45,961 INFO: test_submit_claim passed 
+2026-06-25 11:04:14,026 INFO: ====== WebDriver manager ======
+2026-06-25 11:04:14,783 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-25 11:04:18,891 INFO: Login Successful
+2026-06-25 11:04:23,189 INFO: Leave menu opened successfully
+2026-06-25 11:04:24,634 INFO: Assign Leave page opened successfully
+2026-06-25 11:04:46,380 ERROR: Failed: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6114a3fa5+14925]
+	chromedriver!GetHandleVerifier [0x7ff6114a4000+14980]
+	chromedriver!(No symbol) [0x7ff610fe793d]
+	chromedriver!(No symbol) [0x7ff611041aad]
+	chromedriver!(No symbol) [0x7ff611041dac]
+	chromedriver!(No symbol) [0x7ff6110927d7]
+	chromedriver!(No symbol) [0x7ff61108f39b]
+	chromedriver!(No symbol) [0x7ff61103401c]
+	chromedriver!(No symbol) [0x7ff611034f43]
+	chromedriver!GetHandleVerifier [0x7ff611a87591+5f7f11]
+	chromedriver!GetHandleVerifier [0x7ff611a81902+5f2282]
+	chromedriver!GetHandleVerifier [0x7ff611aa7115+617a95]
+	chromedriver!GetHandleVerifier [0x7ff6114c1dce+3274e]
+	chromedriver!GetHandleVerifier [0x7ff6114ca82c+3b1ac]
+	chromedriver!GetHandleVerifier [0x7ff6114ad744+1e0c4]
+	chromedriver!GetHandleVerifier [0x7ff6114ad8d4+1e254]
+	chromedriver!GetHandleVerifier [0x7ff611491447+1dc7]
+	KERNEL32!BaseThreadInitThunk [0x7ffa17cde957+17]
+	ntdll!RtlUserThreadStart [0x7ffa18847c1c+2c]
+
+2026-06-25 11:04:46,748 INFO: test_assign_leave failed 
+2026-06-25 11:04:49,099 INFO: ====== WebDriver manager ======
+2026-06-25 11:04:49,854 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-25 11:04:56,983 INFO: Admin
+2026-06-25 11:04:57,010 INFO: PIM
+2026-06-25 11:04:57,036 INFO: Leave
+2026-06-25 11:04:57,062 INFO: Time
+2026-06-25 11:04:57,088 INFO: Recruitment
+2026-06-25 11:04:57,113 INFO: My Info
+2026-06-25 11:04:57,138 INFO: Performance
+2026-06-25 11:04:57,163 INFO: Dashboard
+2026-06-25 11:04:57,187 INFO: Directory
+2026-06-25 11:04:57,237 INFO: Maintenance
+2026-06-25 11:04:57,262 INFO: Claim
+2026-06-25 11:04:57,286 INFO: Buzz
+2026-06-25 11:04:57,287 INFO: test_dashboard_menu passed 
+2026-06-25 11:04:59,526 INFO: ====== WebDriver manager ======
+2026-06-25 11:05:00,247 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-25 11:05:05,966 INFO: test_forgot_password passed 
+2026-06-25 11:05:08,176 INFO: ====== WebDriver manager ======
+2026-06-25 11:05:08,876 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-25 11:05:12,948 INFO: Home URL Loaded Successfully
+2026-06-25 11:05:12,949 INFO: test_home_url passed 
+2026-06-25 11:05:15,162 INFO: ====== WebDriver manager ======
+2026-06-25 11:05:15,865 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-25 11:05:19,364 INFO: Executing Login Test: Admin
+2026-06-25 11:05:21,246 INFO: Login Successful
+2026-06-25 11:05:22,562 INFO: Logout Successful
+2026-06-25 11:05:22,563 INFO: test_login[Admin-admin123-Pass] passed 
+2026-06-25 11:05:24,780 INFO: ====== WebDriver manager ======
+2026-06-25 11:05:25,469 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-25 11:05:28,583 INFO: Executing Login Test: Admin
+2026-06-25 11:05:30,978 INFO: Invalid Login Verified
+2026-06-25 11:05:30,979 INFO: test_login[Admin-wrong123-Fail] passed 
+2026-06-25 11:05:33,180 INFO: ====== WebDriver manager ======
+2026-06-25 11:05:33,898 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-25 11:05:37,772 INFO: Executing Login Test: WrongUser
+2026-06-25 11:05:39,767 INFO: Invalid Login Verified
+2026-06-25 11:05:39,768 INFO: test_login[WrongUser-admin123-Fail] passed 
+2026-06-25 11:05:42,012 INFO: ====== WebDriver manager ======
+2026-06-25 11:05:42,711 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-25 11:05:46,099 INFO: Executing Login Test: TestUser
+2026-06-25 11:05:48,522 INFO: Invalid Login Verified
+2026-06-25 11:05:48,523 INFO: test_login[TestUser-Test123-Fail] passed 
+2026-06-25 11:05:50,713 INFO: ====== WebDriver manager ======
+2026-06-25 11:05:51,396 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-25 11:05:54,935 INFO: Executing Login Test: admin
+2026-06-25 11:05:57,766 INFO: Login Successful
+2026-06-25 11:05:59,028 INFO: Logout Successful
+2026-06-25 11:05:59,029 INFO: test_login[admin-admin123-Pass] passed 
+2026-06-25 11:06:01,282 INFO: ====== WebDriver manager ======
+2026-06-25 11:06:01,963 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-25 11:06:07,498 INFO: Executing Login Test: Admin
+2026-06-25 11:06:13,994 INFO: Invalid Login Verified
+2026-06-25 11:06:13,995 INFO: test_login[Admin-Admin123-Fail] passed 
+2026-06-25 11:06:16,228 INFO: ====== WebDriver manager ======
+2026-06-25 11:06:16,936 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-25 11:06:21,651 INFO: Username and Password fields are visible and enabled
+2026-06-25 11:06:21,651 INFO: test_login_fields passed 
+2026-06-25 11:06:23,838 INFO: ====== WebDriver manager ======
+2026-06-25 11:06:24,537 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-25 11:06:35,818 INFO: Verified menu: Personal Details
+2026-06-25 11:06:38,652 INFO: Verified menu: Contact Details
+2026-06-25 11:06:40,787 INFO: Verified menu: Emergency Contacts
+2026-06-25 11:06:42,137 INFO: Verified menu: Dependents
+2026-06-25 11:06:43,353 INFO: Verified menu: Immigration
+2026-06-25 11:06:44,430 INFO: Verified menu: Job
+2026-06-25 11:06:45,564 INFO: Verified menu: Salary
+2026-06-25 11:06:46,812 INFO: Verified menu: Report-to
+2026-06-25 11:06:47,942 INFO: Verified menu: Qualifications
+2026-06-25 11:06:49,859 INFO: Verified menu: Memberships
+2026-06-25 11:06:49,860 INFO: test_myinfo_menu passed 
+2026-06-25 11:06:52,116 INFO: ====== WebDriver manager ======
+2026-06-25 11:06:52,801 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-25 11:07:13,587 INFO: User created successfully: d1782365824
+2026-06-25 11:07:13,588 INFO: test_new_user_creation passed 
+2026-06-25 11:07:15,983 INFO: ====== WebDriver manager ======
+2026-06-25 11:07:16,684 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-25 11:07:27,015 INFO: User verified successfully: d1782365824
+2026-06-25 11:07:27,016 INFO: test_search_user passed 
+2026-06-25 11:07:29,306 INFO: ====== WebDriver manager ======
+2026-06-25 11:07:30,009 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-25 11:07:42,059 INFO: Claim details entered
+2026-06-25 11:07:42,146 INFO: Claim created successfully
+2026-06-25 11:07:44,138 INFO: Claim found in My Claims table
+2026-06-25 11:07:44,139 INFO: test_submit_claim passed 
+2026-06-25 11:24:41,934 INFO: ====== WebDriver manager ======
+2026-06-25 11:24:42,693 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-25 11:24:52,745 INFO: Login Successful
+2026-06-25 11:25:01,998 INFO: Leave menu opened successfully
+2026-06-25 11:25:04,902 INFO: Assign Leave page opened successfully
+2026-06-25 11:25:26,597 ERROR: Failed: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6114a3fa5+14925]
+	chromedriver!GetHandleVerifier [0x7ff6114a4000+14980]
+	chromedriver!(No symbol) [0x7ff610fe793d]
+	chromedriver!(No symbol) [0x7ff611041aad]
+	chromedriver!(No symbol) [0x7ff611041dac]
+	chromedriver!(No symbol) [0x7ff6110927d7]
+	chromedriver!(No symbol) [0x7ff61108f39b]
+	chromedriver!(No symbol) [0x7ff61103401c]
+	chromedriver!(No symbol) [0x7ff611034f43]
+	chromedriver!GetHandleVerifier [0x7ff611a87591+5f7f11]
+	chromedriver!GetHandleVerifier [0x7ff611a81902+5f2282]
+	chromedriver!GetHandleVerifier [0x7ff611aa7115+617a95]
+	chromedriver!GetHandleVerifier [0x7ff6114c1dce+3274e]
+	chromedriver!GetHandleVerifier [0x7ff6114ca82c+3b1ac]
+	chromedriver!GetHandleVerifier [0x7ff6114ad744+1e0c4]
+	chromedriver!GetHandleVerifier [0x7ff6114ad8d4+1e254]
+	chromedriver!GetHandleVerifier [0x7ff611491447+1dc7]
+	KERNEL32!BaseThreadInitThunk [0x7ffa17cde957+17]
+	ntdll!RtlUserThreadStart [0x7ffa18847c1c+2c]
+
+2026-06-25 11:25:26,938 INFO: test_assign_leave failed 
+2026-06-25 11:25:29,271 INFO: ====== WebDriver manager ======
+2026-06-25 11:25:29,951 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-25 11:25:36,854 INFO: Admin
+2026-06-25 11:25:36,877 INFO: PIM
+2026-06-25 11:25:36,905 INFO: Leave
+2026-06-25 11:25:36,926 INFO: Time
+2026-06-25 11:25:36,948 INFO: Recruitment
+2026-06-25 11:25:36,969 INFO: My Info
+2026-06-25 11:25:37,000 INFO: Performance
+2026-06-25 11:25:37,042 INFO: Dashboard
+2026-06-25 11:25:37,066 INFO: Directory
+2026-06-25 11:25:37,090 INFO: Maintenance
+2026-06-25 11:25:37,112 INFO: Claim
+2026-06-25 11:25:37,142 INFO: Buzz
+2026-06-25 11:25:37,143 INFO: test_dashboard_menu passed 
+2026-06-25 11:25:39,366 INFO: ====== WebDriver manager ======
+2026-06-25 11:25:40,024 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-25 11:25:45,836 INFO: test_forgot_password passed 
+2026-06-25 11:25:48,068 INFO: ====== WebDriver manager ======
+2026-06-25 11:25:48,732 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-25 11:25:53,063 INFO: Home URL Loaded Successfully
+2026-06-25 11:25:53,064 INFO: test_home_url passed 
+2026-06-25 11:25:55,287 INFO: ====== WebDriver manager ======
+2026-06-25 11:25:55,957 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-25 11:25:59,490 INFO: Executing Login Test: Admin
+2026-06-25 11:26:03,057 INFO: Login Successful
+2026-06-25 11:26:04,253 INFO: Logout Successful
+2026-06-25 11:26:04,254 INFO: test_login[Admin-admin123-Pass] passed 
+2026-06-25 11:26:06,497 INFO: ====== WebDriver manager ======
+2026-06-25 11:26:07,147 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-25 11:26:10,413 INFO: Executing Login Test: Admin
+2026-06-25 11:26:14,152 INFO: Invalid Login Verified
+2026-06-25 11:26:14,153 INFO: test_login[Admin-wrong123-Fail] passed 
+2026-06-25 11:26:16,411 INFO: ====== WebDriver manager ======
+2026-06-25 11:26:17,071 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-25 11:26:21,327 INFO: Executing Login Test: WrongUser
+2026-06-25 11:26:27,788 INFO: Invalid Login Verified
+2026-06-25 11:26:27,788 INFO: test_login[WrongUser-admin123-Fail] passed 
+2026-06-25 11:26:30,005 INFO: ====== WebDriver manager ======
+2026-06-25 11:26:30,664 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-25 11:26:34,331 INFO: Executing Login Test: TestUser
+2026-06-25 11:26:40,096 INFO: Invalid Login Verified
+2026-06-25 11:26:40,096 INFO: test_login[TestUser-Test123-Fail] passed 
+2026-06-25 11:26:42,390 INFO: ====== WebDriver manager ======
+2026-06-25 11:26:43,042 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-25 11:26:47,520 INFO: Executing Login Test: admin
+2026-06-25 11:26:51,605 INFO: Login Successful
+2026-06-25 11:26:53,332 INFO: Logout Successful
+2026-06-25 11:26:53,333 INFO: test_login[admin-admin123-Pass] passed 
+2026-06-25 11:26:55,583 INFO: ====== WebDriver manager ======
+2026-06-25 11:26:56,251 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-25 11:27:00,193 INFO: Executing Login Test: Admin
+2026-06-25 11:27:02,870 INFO: Invalid Login Verified
+2026-06-25 11:27:02,871 INFO: test_login[Admin-Admin123-Fail] passed 
+2026-06-25 11:27:05,151 INFO: ====== WebDriver manager ======
+2026-06-25 11:27:05,807 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-25 11:27:09,771 INFO: Username and Password fields are visible and enabled
+2026-06-25 11:27:09,772 INFO: test_login_fields passed 
+2026-06-25 11:27:11,991 INFO: ====== WebDriver manager ======
+2026-06-25 11:27:12,657 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-25 11:27:23,075 INFO: Verified menu: Personal Details
+2026-06-25 11:27:24,435 INFO: Verified menu: Contact Details
+2026-06-25 11:27:25,402 INFO: Verified menu: Emergency Contacts
+2026-06-25 11:27:26,603 INFO: Verified menu: Dependents
+2026-06-25 11:27:27,954 INFO: Verified menu: Immigration
+2026-06-25 11:27:29,022 INFO: Verified menu: Job
+2026-06-25 11:27:30,102 INFO: Verified menu: Salary
+2026-06-25 11:27:31,111 INFO: Verified menu: Report-to
+2026-06-25 11:27:32,718 INFO: Verified menu: Qualifications
+2026-06-25 11:27:35,200 INFO: Verified menu: Memberships
+2026-06-25 11:27:35,201 INFO: test_myinfo_menu passed 
+2026-06-25 11:27:37,446 INFO: ====== WebDriver manager ======
+2026-06-25 11:27:38,106 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-25 11:27:54,660 INFO: User created successfully: d1782367067
+2026-06-25 11:27:54,661 INFO: test_new_user_creation passed 
+2026-06-25 11:27:56,917 INFO: ====== WebDriver manager ======
+2026-06-25 11:27:57,574 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-25 11:28:08,092 INFO: User verified successfully: d1782367067
+2026-06-25 11:28:08,092 INFO: test_search_user passed 
+2026-06-25 11:28:10,388 INFO: ====== WebDriver manager ======
+2026-06-25 11:28:11,058 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-25 11:28:21,919 INFO: Claim details entered
+2026-06-25 11:28:22,007 INFO: Claim created successfully
+2026-06-25 11:28:24,184 INFO: Claim found in My Claims table
+2026-06-25 11:28:24,186 INFO: test_submit_claim passed 
+2026-06-25 12:46:03,632 INFO: ====== WebDriver manager ======
+2026-06-25 12:46:04,367 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-25 12:46:14,200 INFO: Login Successful
+2026-06-25 12:46:27,301 INFO: Leave menu opened successfully
+2026-06-25 12:46:30,575 INFO: Assign Leave page opened successfully
+2026-06-25 12:46:32,501 ERROR: Failed: 'datetime.datetime' object is not iterable
+2026-06-25 12:46:32,840 INFO: test_assign_leave failed 
+2026-06-25 12:47:08,393 INFO: ====== WebDriver manager ======
+2026-06-25 12:47:09,552 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-25 12:47:16,513 INFO: Login Successful
+2026-06-25 12:47:21,479 INFO: Leave menu opened successfully
+2026-06-25 12:47:23,394 INFO: Assign Leave page opened successfully
+2026-06-25 12:47:24,846 ERROR: Failed: 'datetime.datetime' object is not iterable
+2026-06-25 12:47:25,129 INFO: test_assign_leave failed 
+2026-06-25 12:50:10,324 INFO: ====== WebDriver manager ======
+2026-06-25 12:50:11,438 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-25 12:50:21,993 INFO: Login Successful
+2026-06-25 12:50:42,070 ERROR: Failed: Message: 
+
+2026-06-25 12:50:42,339 INFO: test_assign_leave failed 
+2026-06-25 12:50:51,261 INFO: ====== WebDriver manager ======
+2026-06-25 12:50:52,357 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-25 12:51:01,364 INFO: Login Successful
+2026-06-25 12:51:16,247 INFO: Leave menu opened successfully
+2026-06-25 12:51:19,784 INFO: Assign Leave page opened successfully
+2026-06-25 12:51:22,385 INFO: Dates entered successfully
+2026-06-25 12:51:22,404 INFO: Assign button displayed
+2026-06-25 12:51:22,475 INFO: Assign button clicked
+2026-06-25 12:51:22,476 INFO: test_assign_leave passed 
+2026-06-25 12:51:34,146 INFO: ====== WebDriver manager ======
+2026-06-25 12:51:35,236 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-25 12:51:43,365 INFO: Login Successful
+2026-06-25 12:51:55,585 INFO: Leave menu opened successfully
+2026-06-25 12:51:58,091 INFO: Assign Leave page opened successfully
+2026-06-25 12:52:00,141 INFO: Dates entered successfully
+2026-06-25 12:52:00,159 INFO: Assign button displayed
+2026-06-25 12:52:00,238 INFO: Assign button clicked
+2026-06-25 12:52:00,238 INFO: test_assign_leave passed 
+2026-06-25 12:52:02,499 INFO: ====== WebDriver manager ======
+2026-06-25 12:52:03,647 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-25 12:52:09,682 INFO: Admin
+2026-06-25 12:52:09,708 INFO: PIM
+2026-06-25 12:52:09,733 INFO: Leave
+2026-06-25 12:52:09,756 INFO: Time
+2026-06-25 12:52:09,780 INFO: Recruitment
+2026-06-25 12:52:09,803 INFO: My Info
+2026-06-25 12:52:09,827 INFO: Performance
+2026-06-25 12:52:09,851 INFO: Dashboard
+2026-06-25 12:52:09,875 INFO: Directory
+2026-06-25 12:52:09,899 INFO: Maintenance
+2026-06-25 12:52:09,922 INFO: Claim
+2026-06-25 12:52:09,946 INFO: Buzz
+2026-06-25 12:52:09,946 INFO: test_dashboard_menu passed 
+2026-06-25 12:52:12,128 INFO: ====== WebDriver manager ======
+2026-06-25 12:52:13,301 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-25 12:53:23,782 INFO: test_forgot_password passed 
+2026-06-25 12:53:26,069 INFO: ====== WebDriver manager ======
+2026-06-25 12:53:27,236 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-25 12:53:31,080 INFO: Home URL Loaded Successfully
+2026-06-25 12:53:31,080 INFO: test_home_url passed 
+2026-06-25 12:53:33,304 INFO: ====== WebDriver manager ======
+2026-06-25 12:53:34,454 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-25 12:53:38,160 INFO: Executing Login Test: Admin
+2026-06-25 12:53:40,822 INFO: Login Successful
+2026-06-25 12:53:42,031 INFO: Logout Successful
+2026-06-25 12:53:42,032 INFO: test_login[Admin-admin123-Pass] passed 
+2026-06-25 12:53:44,281 INFO: ====== WebDriver manager ======
+2026-06-25 12:53:45,400 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-25 12:53:46,965 INFO: Executing Login Test: Admin
+2026-06-25 12:53:51,469 INFO: Invalid Login Verified
+2026-06-25 12:53:51,470 INFO: test_login[Admin-wrong123-Fail] passed 
+2026-06-25 12:53:53,726 INFO: ====== WebDriver manager ======
+2026-06-25 12:53:54,701 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-25 12:53:57,888 INFO: Executing Login Test: WrongUser
+2026-06-25 12:54:00,019 INFO: Invalid Login Verified
+2026-06-25 12:54:00,020 INFO: test_login[WrongUser-admin123-Fail] passed 
+2026-06-25 12:54:02,219 INFO: ====== WebDriver manager ======
+2026-06-25 12:54:03,322 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-25 12:54:07,114 INFO: Executing Login Test: TestUser
+2026-06-25 12:54:09,267 INFO: Invalid Login Verified
+2026-06-25 12:54:09,267 INFO: test_login[TestUser-Test123-Fail] passed 
+2026-06-25 12:54:11,475 INFO: ====== WebDriver manager ======
+2026-06-25 12:54:12,581 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-25 12:54:14,037 INFO: Executing Login Test: admin
+2026-06-25 12:54:17,769 INFO: test_login[admin-admin123-Pass] failed 
+2026-06-25 12:54:20,035 INFO: ====== WebDriver manager ======
+2026-06-25 12:54:21,133 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-25 12:54:24,245 INFO: Executing Login Test: Admin
+2026-06-25 12:54:27,599 INFO: Invalid Login Verified
+2026-06-25 12:54:27,600 INFO: test_login[Admin-Admin123-Fail] passed 
+2026-06-25 12:54:29,807 INFO: ====== WebDriver manager ======
+2026-06-25 12:54:30,933 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-25 12:54:35,490 INFO: Username and Password fields are visible and enabled
+2026-06-25 12:54:35,491 INFO: test_login_fields passed 
+2026-06-25 12:54:37,688 INFO: ====== WebDriver manager ======
+2026-06-25 12:54:38,856 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-25 12:54:57,601 INFO: Verified menu: Personal Details
+2026-06-25 12:55:00,836 INFO: Verified menu: Contact Details
+2026-06-25 12:55:02,788 INFO: Verified menu: Emergency Contacts
+2026-06-25 12:55:04,873 INFO: Verified menu: Dependents
+2026-06-25 12:55:07,750 INFO: Verified menu: Immigration
+2026-06-25 12:55:09,513 INFO: Verified menu: Job
+2026-06-25 12:55:12,203 INFO: Verified menu: Salary
+2026-06-25 12:55:14,191 INFO: Verified menu: Report-to
+2026-06-25 12:55:15,640 INFO: Verified menu: Qualifications
+2026-06-25 12:55:18,010 INFO: Verified menu: Memberships
+2026-06-25 12:55:18,011 INFO: test_myinfo_menu passed 
+2026-06-25 12:55:20,377 INFO: ====== WebDriver manager ======
+2026-06-25 12:55:21,060 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-25 12:56:02,783 INFO: User created successfully: d1782372345
+2026-06-25 12:56:02,785 INFO: test_new_user_creation passed 
+2026-06-25 12:56:05,046 INFO: ====== WebDriver manager ======
+2026-06-25 12:56:05,722 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-25 12:56:23,617 INFO: User verified successfully: d1782372345
+2026-06-25 12:56:23,618 INFO: test_search_user passed 
+2026-06-25 12:56:25,863 INFO: ====== WebDriver manager ======
+2026-06-25 12:56:26,546 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-25 12:56:50,763 INFO: test_submit_claim failed 
+2026-06-26 10:01:50,770 INFO: ====== WebDriver manager ======
+2026-06-26 10:01:52,960 INFO: Get LATEST chromedriver version for google-chrome
+2026-06-26 10:01:54,211 INFO: Get LATEST chromedriver version for google-chrome
+2026-06-26 10:01:54,848 INFO: WebDriver version 149.0.7827.155 selected
+2026-06-26 10:01:54,855 INFO: Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/149.0.7827.155/win64/chromedriver-win64.zip
+2026-06-26 10:01:54,855 INFO: About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/149.0.7827.155/win64/chromedriver-win64.zip
+2026-06-26 10:01:55,426 INFO: Driver downloading response is 200
+2026-06-26 10:01:58,557 INFO: Driver has been saved in cache [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155]
+2026-06-26 10:02:03,426 INFO: Login Successful
+2026-06-26 10:02:06,350 INFO: Leave menu opened successfully
+2026-06-26 10:02:07,630 INFO: Assign Leave page opened successfully
+2026-06-26 10:02:09,224 INFO: Dates entered successfully
+2026-06-26 10:02:09,244 INFO: Assign button displayed
+2026-06-26 10:02:09,338 INFO: Assign button clicked
+2026-06-26 10:02:09,339 INFO: test_assign_leave passed 
+2026-06-26 10:02:11,577 INFO: ====== WebDriver manager ======
+2026-06-26 10:02:12,812 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-26 10:02:19,559 INFO: Admin
+2026-06-26 10:02:19,593 INFO: PIM
+2026-06-26 10:02:19,617 INFO: Leave
+2026-06-26 10:02:19,639 INFO: Time
+2026-06-26 10:02:19,662 INFO: Recruitment
+2026-06-26 10:02:19,686 INFO: My Info
+2026-06-26 10:02:19,717 INFO: Performance
+2026-06-26 10:02:19,742 INFO: Dashboard
+2026-06-26 10:02:19,764 INFO: Directory
+2026-06-26 10:02:19,808 INFO: Maintenance
+2026-06-26 10:02:19,834 INFO: Claim
+2026-06-26 10:02:19,859 INFO: Buzz
+2026-06-26 10:02:19,859 INFO: test_dashboard_menu passed 
+2026-06-26 10:02:22,090 INFO: ====== WebDriver manager ======
+2026-06-26 10:02:23,328 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-26 10:03:30,568 INFO: test_forgot_password passed 
+2026-06-26 10:03:32,873 INFO: ====== WebDriver manager ======
+2026-06-26 10:03:34,099 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-26 10:03:38,133 INFO: Home URL Loaded Successfully
+2026-06-26 10:03:38,134 INFO: test_home_url passed 
+2026-06-26 10:03:40,402 INFO: ====== WebDriver manager ======
+2026-06-26 10:03:41,582 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-26 10:03:43,106 INFO: Executing Login Test: Admin
+2026-06-26 10:03:46,669 INFO: Login Successful
+2026-06-26 10:03:47,621 INFO: Logout Successful
+2026-06-26 10:03:47,622 INFO: test_login[Admin-admin123-Pass] passed 
+2026-06-26 10:03:49,802 INFO: ====== WebDriver manager ======
+2026-06-26 10:03:50,900 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-26 10:03:54,532 INFO: Executing Login Test: Admin
+2026-06-26 10:03:56,904 INFO: Invalid Login Verified
+2026-06-26 10:03:56,904 INFO: test_login[Admin-wrong123-Fail] passed 
+2026-06-26 10:03:59,165 INFO: ====== WebDriver manager ======
+2026-06-26 10:04:00,253 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-26 10:04:03,431 INFO: Executing Login Test: WrongUser
+2026-06-26 10:04:05,396 INFO: Invalid Login Verified
+2026-06-26 10:04:05,396 INFO: test_login[WrongUser-admin123-Fail] passed 
+2026-06-26 10:04:07,674 INFO: ====== WebDriver manager ======
+2026-06-26 10:04:08,795 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-26 10:04:12,197 INFO: Executing Login Test: TestUser
+2026-06-26 10:04:14,200 INFO: Invalid Login Verified
+2026-06-26 10:04:14,200 INFO: test_login[TestUser-Test123-Fail] passed 
+2026-06-26 10:04:16,411 INFO: ====== WebDriver manager ======
+2026-06-26 10:04:17,518 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-26 10:04:23,856 INFO: Executing Login Test: admin
+2026-06-26 10:04:26,057 INFO: Login Successful
+2026-06-26 10:04:27,268 INFO: Logout Successful
+2026-06-26 10:04:27,269 INFO: test_login[admin-admin123-Pass] passed 
+2026-06-26 10:04:29,502 INFO: ====== WebDriver manager ======
+2026-06-26 10:04:30,623 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-26 10:04:34,452 INFO: Executing Login Test: Admin
+2026-06-26 10:04:37,037 INFO: Invalid Login Verified
+2026-06-26 10:04:37,037 INFO: test_login[Admin-Admin123-Fail] passed 
+2026-06-26 10:04:39,235 INFO: ====== WebDriver manager ======
+2026-06-26 10:04:40,354 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-26 10:04:44,230 INFO: Username and Password fields are visible and enabled
+2026-06-26 10:04:44,230 INFO: test_login_fields passed 
+2026-06-26 10:04:46,399 INFO: ====== WebDriver manager ======
+2026-06-26 10:04:47,549 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-26 10:04:57,141 INFO: Verified menu: Personal Details
+2026-06-26 10:04:58,331 INFO: Verified menu: Contact Details
+2026-06-26 10:04:59,537 INFO: Verified menu: Emergency Contacts
+2026-06-26 10:05:01,077 INFO: Verified menu: Dependents
+2026-06-26 10:05:02,364 INFO: Verified menu: Immigration
+2026-06-26 10:05:03,780 INFO: Verified menu: Job
+2026-06-26 10:05:04,837 INFO: Verified menu: Salary
+2026-06-26 10:05:05,867 INFO: Verified menu: Report-to
+2026-06-26 10:05:07,213 INFO: Verified menu: Qualifications
+2026-06-26 10:05:08,938 INFO: Verified menu: Memberships
+2026-06-26 10:05:08,939 INFO: test_myinfo_menu passed 
+2026-06-26 10:05:11,210 INFO: ====== WebDriver manager ======
+2026-06-26 10:05:12,389 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-26 10:05:30,836 INFO: User created successfully: d1782448522
+2026-06-26 10:05:30,837 INFO: test_new_user_creation passed 
+2026-06-26 10:05:33,143 INFO: ====== WebDriver manager ======
+2026-06-26 10:05:34,272 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-26 10:05:47,177 INFO: User verified successfully: d1782448522
+2026-06-26 10:05:47,178 INFO: test_search_user passed 
+2026-06-26 10:05:49,435 INFO: ====== WebDriver manager ======
+2026-06-26 10:05:50,660 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-26 10:06:15,541 INFO: test_submit_claim failed 
