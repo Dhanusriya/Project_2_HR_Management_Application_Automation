@@ -1,4 +1,6 @@
 import pytest
+from selenium.webdriver.support.wait import WebDriverWait
+
 from pages.dashboard_page import DashboardPage
 from pages.login_page import LoginPage
 from utilities.logger import logger
@@ -18,7 +20,7 @@ def test_login(driver, username, password, expected):
         login.enter_password(password)
         login.click_login()
         if expected == "Pass":
-            assert "dashboard" in driver.current_url
+            WebDriverWait(driver, 15).until(lambda d: "dashboard" in driver.current_url)
             logger.info("Login Successful")
             dashboard = DashboardPage(driver)
 

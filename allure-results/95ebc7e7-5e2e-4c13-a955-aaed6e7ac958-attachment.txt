@@ -1,0 +1,8 @@
+[32mINFO    [0m WDM:logger.py:11 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:11 Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+[32mINFO    [0m root:test_assign_leave.py:18 Login Successful
+[32mINFO    [0m root:test_assign_leave.py:24 Leave menu opened successfully
+[32mINFO    [0m root:test_assign_leave.py:30 Assign Leave page opened successfully
+[32mINFO    [0m root:test_assign_leave.py:45 Dates entered successfully
+[32mINFO    [0m root:test_assign_leave.py:50 Assign button displayed
+[32mINFO    [0m root:test_assign_leave.py:54 Assign button clicked

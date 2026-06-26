@@ -1,0 +1,26 @@
+[32mINFO    [0m WDM:logger.py:11 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:11 Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+[32mINFO    [0m root:test_assign_leave.py:18 Login Successful
+[32mINFO    [0m root:test_assign_leave.py:24 Leave menu opened successfully
+[32mINFO    [0m root:test_assign_leave.py:30 Assign Leave page opened successfully
+[1m[31mERROR   [0m root:test_assign_leave.py:57 Failed: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6114a3fa5+14925]
+	chromedriver!GetHandleVerifier [0x7ff6114a4000+14980]
+	chromedriver!(No symbol) [0x7ff610fe793d]
+	chromedriver!(No symbol) [0x7ff611041aad]
+	chromedriver!(No symbol) [0x7ff611041dac]
+	chromedriver!(No symbol) [0x7ff6110927d7]
+	chromedriver!(No symbol) [0x7ff61108f39b]
+	chromedriver!(No symbol) [0x7ff61103401c]
+	chromedriver!(No symbol) [0x7ff611034f43]
+	chromedriver!GetHandleVerifier [0x7ff611a87591+5f7f11]
+	chromedriver!GetHandleVerifier [0x7ff611a81902+5f2282]
+	chromedriver!GetHandleVerifier [0x7ff611aa7115+617a95]
+	chromedriver!GetHandleVerifier [0x7ff6114c1dce+3274e]
+	chromedriver!GetHandleVerifier [0x7ff6114ca82c+3b1ac]
+	chromedriver!GetHandleVerifier [0x7ff6114ad744+1e0c4]
+	chromedriver!GetHandleVerifier [0x7ff6114ad8d4+1e254]
+	chromedriver!GetHandleVerifier [0x7ff611491447+1dc7]
+	KERNEL32!BaseThreadInitThunk [0x7ffa17cde957+17]
+	ntdll!RtlUserThreadStart [0x7ffa18847c1c+2c]

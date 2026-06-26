@@ -1,0 +1,2 @@
+Event selected
+Currency selected

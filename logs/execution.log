@@ -965,3 +965,35 @@ Stacktrace:
 2026-06-26 10:05:49,435 INFO: ====== WebDriver manager ======
 2026-06-26 10:05:50,660 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
 2026-06-26 10:06:15,541 INFO: test_submit_claim failed 
+2026-06-26 11:00:22,276 INFO: ====== WebDriver manager ======
+2026-06-26 11:00:23,406 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-26 11:00:26,544 INFO: Executing Login Test: Admin
+2026-06-26 11:00:29,931 INFO: Login Successful
+2026-06-26 11:00:31,122 INFO: Logout Successful
+2026-06-26 11:00:31,122 INFO: test_login[Admin-admin123-Pass] passed
+2026-06-26 11:00:33,420 INFO: ====== WebDriver manager ======
+2026-06-26 11:00:34,106 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-26 11:00:37,574 INFO: Executing Login Test: Admin
+2026-06-26 11:00:39,895 INFO: Invalid Login Verified
+2026-06-26 11:00:39,895 INFO: test_login[Admin-wrong123-Fail] passed
+2026-06-26 11:00:42,105 INFO: ====== WebDriver manager ======
+2026-06-26 11:00:42,786 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-26 11:00:46,103 INFO: Executing Login Test: WrongUser
+2026-06-26 11:00:48,692 INFO: Invalid Login Verified
+2026-06-26 11:00:48,693 INFO: test_login[WrongUser-admin123-Fail] passed
+2026-06-26 11:00:50,897 INFO: ====== WebDriver manager ======
+2026-06-26 11:00:51,574 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-26 11:00:55,076 INFO: Executing Login Test: TestUser
+2026-06-26 11:00:57,300 INFO: Invalid Login Verified
+2026-06-26 11:00:57,301 INFO: test_login[TestUser-Test123-Fail] passed
+2026-06-26 11:00:59,550 INFO: ====== WebDriver manager ======
+2026-06-26 11:01:00,222 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-26 11:01:03,622 INFO: Executing Login Test: admin
+2026-06-26 11:01:06,679 INFO: Login Successful
+2026-06-26 11:01:07,903 INFO: Logout Successful
+2026-06-26 11:01:07,904 INFO: test_login[admin-admin123-Pass] passed
+2026-06-26 11:01:10,132 INFO: ====== WebDriver manager ======
+2026-06-26 11:01:10,847 INFO: Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-06-26 11:01:14,382 INFO: Executing Login Test: Admin
+2026-06-26 11:01:19,420 INFO: Invalid Login Verified
+2026-06-26 11:01:19,420 INFO: test_login[Admin-Admin123-Fail] passed

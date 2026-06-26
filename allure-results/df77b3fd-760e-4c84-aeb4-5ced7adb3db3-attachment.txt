@@ -1,0 +1,11 @@
+Menu names: ['Personal Details', 'Contact Details', 'Emergency Contacts', 'Dependents', 'Immigration', 'Job', 'Salary', 'Report-to', 'Qualifications', 'Memberships']
+Clicking: Personal Details
+Clicking: Contact Details
+Clicking: Emergency Contacts
+Clicking: Dependents
+Clicking: Immigration
+Clicking: Job
+Clicking: Salary
+Clicking: Report-to
+Clicking: Qualifications
+Clicking: Memberships

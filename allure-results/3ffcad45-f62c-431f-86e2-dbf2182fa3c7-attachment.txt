@@ -1,0 +1,12 @@
+[32mINFO    [0m WDM:logger.py:11 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:11 Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+[32mINFO    [0m root:test_myinfo_menu.py:49 Verified menu: Personal Details
+[32mINFO    [0m root:test_myinfo_menu.py:49 Verified menu: Contact Details
+[32mINFO    [0m root:test_myinfo_menu.py:49 Verified menu: Emergency Contacts
+[32mINFO    [0m root:test_myinfo_menu.py:49 Verified menu: Dependents
+[32mINFO    [0m root:test_myinfo_menu.py:49 Verified menu: Immigration
+[32mINFO    [0m root:test_myinfo_menu.py:49 Verified menu: Job
+[32mINFO    [0m root:test_myinfo_menu.py:49 Verified menu: Salary
+[32mINFO    [0m root:test_myinfo_menu.py:49 Verified menu: Report-to
+[32mINFO    [0m root:test_myinfo_menu.py:49 Verified menu: Qualifications
+[32mINFO    [0m root:test_myinfo_menu.py:49 Verified menu: Memberships

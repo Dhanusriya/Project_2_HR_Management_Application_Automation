@@ -1,0 +1,14 @@
+[32mINFO    [0m WDM:logger.py:11 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:11 Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\149.0.7827.155\chromedriver-win64/chromedriver.exe] found in cache by browser version
+[32mINFO    [0m root:test_dashboard_menu.py:22 Admin
+[32mINFO    [0m root:test_dashboard_menu.py:22 PIM
+[32mINFO    [0m root:test_dashboard_menu.py:22 Leave
+[32mINFO    [0m root:test_dashboard_menu.py:22 Time
+[32mINFO    [0m root:test_dashboard_menu.py:22 Recruitment
+[32mINFO    [0m root:test_dashboard_menu.py:22 My Info
+[32mINFO    [0m root:test_dashboard_menu.py:22 Performance
+[32mINFO    [0m root:test_dashboard_menu.py:22 Dashboard
+[32mINFO    [0m root:test_dashboard_menu.py:22 Directory
+[32mINFO    [0m root:test_dashboard_menu.py:22 Maintenance
+[32mINFO    [0m root:test_dashboard_menu.py:22 Claim
+[32mINFO    [0m root:test_dashboard_menu.py:22 Buzz
