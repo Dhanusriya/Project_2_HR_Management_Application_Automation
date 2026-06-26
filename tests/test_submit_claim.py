@@ -9,7 +9,7 @@ def test_submit_claim(driver):
     driver.get("https://opensource-demo.orangehrmlive.com")
 
     login = LoginPage(driver)
-    login.enter_username("FMLName")
+    login.enter_username("Admin1")
     login.enter_password("testing123")
     login.click_login()
 

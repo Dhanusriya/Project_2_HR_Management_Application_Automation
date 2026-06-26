@@ -1,3 +1,5 @@
+from selenium.webdriver.support.wait import WebDriverWait
+
 from pages.admin_page import AdminPage
 from pages.dashboard_page import DashboardPage
 from pages.login_page import LoginPage
@@ -22,6 +24,7 @@ def test_search_user(driver):
         logger.info(f"Searching for User: {username}")
 
         admin = AdminPage(driver)
+        admin.wait_for_admin_page()
         admin.search_user(username)
 
         assert admin.verify_user_exists(username)

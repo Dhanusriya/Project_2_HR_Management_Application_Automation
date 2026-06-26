@@ -70,9 +70,17 @@ class AdminPage:
         field.clear()
         field.send_keys(username)
         self.wait.clickable(self.search_button).click()
-        import time
-        time.sleep(3)
+
+        # Wait until the results table is refreshed
+        self.wait.visibility(self.result_table)
 
     def verify_user_exists(self, username):
         table = self.wait.visibility(self.result_table)
+
+        print("TABLE CONTENT:")
+        print(table.text)
+
         return username in table.text
+
+    def wait_for_admin_page(self):
+        self.wait.clickable(self.add_button)
